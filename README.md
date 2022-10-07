@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @oemelgarejo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @oemelgarejo and I'm a Software Developer
+- 👀 I’m interested in whole related with software developer more specify Dotnet Technologies
+- 🌱 I’m currently learning Dotnet RoadMap
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me <a href="">Oscar Melgarejo</a>
 
 <!---
 oemelgarejo/oemelgarejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
