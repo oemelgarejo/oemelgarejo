@@ -2,7 +2,7 @@
 - 👀 I’m interested in whole related with software developer more specify Dotnet Technologies
 - 🌱 I’m currently learning Dotnet RoadMap
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me <a href="">Oscar Melgarejo</a>
+- 📫 How to reach me [Link text Here](https://link-url-here.org)
 
 <!---
 oemelgarejo/oemelgarejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
